@@ -1,8 +1,13 @@
----default
 greeting: "안녕하세요"
 
----stage
+---
+
+spring:
+  profiles: stage
 greeting: "안녕?"
 
----dev
+---
+
+spring:
+  profiles: dev
 greeting: "안녕하냐"
