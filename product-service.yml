@@ -16,4 +16,4 @@ greeting: "개발 서버 상품서비스 입니다."
 
 spring:
   profiles: local
-greeting: "로컬 서버 상품서비스 입니다. updated"
+greeting: "로컬 서버 상품서비스 입니다."
