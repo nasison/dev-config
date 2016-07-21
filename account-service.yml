@@ -1,1 +1,8 @@
+---default
 greeting: "안녕하세요"
+
+---stage
+greeting: "안녕?"
+
+---dev
+greeting: "안녕하냐"
