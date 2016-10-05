@@ -23,4 +23,4 @@ spring:
   profiles: local
   
 devguide:
-  greeting: "n로컬 서버에 오신걸 환영합니다.refresh2"
+  greeting: "n로컬 서버에 오신걸 환영합니다.refresh3"
